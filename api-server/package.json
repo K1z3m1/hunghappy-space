@@ -1,1 +1,14 @@
-f
+{
+  "name": "hunghappy-space-api",
+  "version": "1.0.0",
+  "description": "API for image translation",
+  "main": "api/translate-image.js",
+  "dependencies": {
+    "tesseract.js": "^4.1.1",
+    "sharp": "^0.32.0",
+    "canvas": "^2.11.2"
+  },
+  "scripts": {
+    "start": "node api/translate-image.js"
+  }
+}
