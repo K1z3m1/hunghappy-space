@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/translate-image.js": {
+      "maxDuration": 30
+    }
+  }
+}
